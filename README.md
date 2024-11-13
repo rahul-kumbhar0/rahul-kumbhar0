@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Rahul Kumbhar</h1>
 
-- 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning React
-- 💬 Ask me anything about Nodejs 
-- 📫 How to reach me: rahulkumbhar5278@gmail.com
-- 
+ 🔭 I’m currently working on Backend
+  🌱 I’m currently learning React
+ 💬 Ask me anything about Nodejs 
+ 📫 How to reach me: rahulkumbhar5278@gmail.com
+ 
 </div>
   
   ### Connect with me:
