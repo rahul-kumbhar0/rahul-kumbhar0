@@ -11,10 +11,10 @@
   
   ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/axiftaj">
+  <a href="https://github.com/rahul-kumbhar0">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/axif_taj">
+   <a href="https://www.instagram.com/_rahul_14.08">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    
