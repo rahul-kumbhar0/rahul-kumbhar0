@@ -1,11 +1,12 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+<div align="center">
+  <img src="https://i.imgur.com/zXwLJOm.png" alt="Rahul Kumbhar" width="300" />
+  <h1>Rahul Kumbhar 👋</h1>
+  <p>
+    <a href="https://www.linkedin.com/in/rahulkumbhar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:rahulanilkumbhar09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://github.com/rahulanilkumbhar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  </p>
+</div>
   
 ### Connect with me:
 <div id="badges">
