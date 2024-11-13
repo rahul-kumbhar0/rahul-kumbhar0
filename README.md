@@ -19,5 +19,5 @@
   </a>
    
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,java,python,redux,expressjs,firebase,github,git,postman,react,Mongodb,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,javascript,java,python,redux,expressjs,firebase,github,git,postman,react,mongo,nodejs,)](https://skillicons.dev)
 
