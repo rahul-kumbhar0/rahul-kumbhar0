@@ -2,10 +2,9 @@
 
   <h1 align="center">Hi 👋, I'm Rahul Kumbhar</h1>
 
-- 🔭 I’m currently working on Backend
-- 🌱 I’m currently learning Reactjs
-- 💬 Ask me anything about Nodejs 
-- 📫 How to reach me: rahulkumbhar5278@gmail.com
+- 🌱 I’m currently learning MERN and Bash commands
+- 💬 Ask me about Html, CSS, JS, React JS, Node Js,
+- 📫 How to reach me: rahulanilkumbhar09@gmail.com
 
 </div>
   
