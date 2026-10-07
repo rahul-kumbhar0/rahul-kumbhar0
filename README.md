@@ -60,7 +60,7 @@ My strongest bridge between **NetSuite development and AI engineering**.
 - Chrome extension + web application
 - Authentication, usage limits, and SaaS-style architecture
 
-**Tech:** Next.js • TypeScript • Supabase • Gemini AI • Chrome Extension • NetSuite
+**Tech:** Next.js • TypeScript • Supabase • AI Conversion Service • Chrome Extension • NetSuite
 
 ➡️ [View SuiteMigrate](https://github.com/rahul-kumbhar0/suitemigrate)
 
