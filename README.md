@@ -2,12 +2,13 @@
 
 # Hi 👋, I'm Rahul Kumbhar
 
-### Associate ERP Developer • NetSuite / SuiteScript • AI Engineering Journey
+### Associate ERP Developer | NetSuite & SuiteScript | Building AI-Powered Automation & Enterprise Tools
 
-Building at the intersection of **ERP systems, automation, and AI**.
+**Currently growing toward AI Engineering through real ERP, automation, and AI projects.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rahul--kumbhar0-181717?style=for-the-badge&logo=github)](https://github.com/rahul-kumbhar0)
 ![NetSuite](https://img.shields.io/badge/NetSuite-ERP-2B579A?style=for-the-badge)
+![SuiteScript](https://img.shields.io/badge/SuiteScript-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Learning%20%26%20Building-6C63FF?style=for-the-badge)
 
 </div>
@@ -16,31 +17,33 @@ Building at the intersection of **ERP systems, automation, and AI**.
 
 ## 👨‍💻 About Me
 
-I'm an **Associate ERP Developer** working with **NetSuite and SuiteScript**, with a growing focus on **AI engineering and intelligent automation**.
+I'm an **Associate ERP Developer** working with **NetSuite and SuiteScript**, while building toward a career in **AI Engineering**.
 
-My goal is to combine real ERP domain experience with modern AI technologies to build useful tools for developers, businesses, and enterprise workflows.
+My focus is to combine real ERP domain knowledge with modern AI technologies to create useful tools for developers, businesses, and enterprise workflows.
 
 - 🏢 Working with **NetSuite ERP, SuiteScript, JavaScript, APIs, and business automation**
-- 🤖 Exploring **LLM applications, AI automation, RAG, agents, and AI-powered developer tools**
+- 🤖 Building and exploring **LLM applications, AI automation, and developer tools**
 - 🐍 Strengthening **Python** for AI engineering
 - ⚙️ Interested in solving repetitive enterprise problems with intelligent systems
-- 🚀 Building projects that connect **ERP + AI + Full-Stack Engineering**
+- 🚀 Building projects that connect **ERP + AI + Backend + Full-Stack Engineering**
 
 ---
 
-## 🎯 Current Direction
+## 🎯 Career Direction
 
 ```text
-ERP / NetSuite Development
-          ↓
-Automation & APIs
-          ↓
+Associate ERP Developer
+        ↓
+NetSuite + SuiteScript
+        ↓
+Automation + APIs
+        ↓
 AI-Powered Enterprise Tools
-          ↓
+        ↓
 AI Engineering
 ```
 
-I want to grow into an engineer who can understand **business systems deeply** and also build the **AI layer on top of them**.
+My long-term goal is to become an engineer who understands **business systems deeply** and can build the **AI layer on top of them**.
 
 ---
 
@@ -49,7 +52,7 @@ I want to grow into an engineer who can understand **business systems deeply** a
 ### ⭐ SuiteMigrate
 **AI-powered SuiteScript 1.0 → 2.1 migration tool**
 
-A project that combines my NetSuite experience with AI-assisted code transformation.
+My strongest bridge between **NetSuite development and AI engineering**.
 
 - AI-assisted SuiteScript conversion
 - Rule-based preprocessing
@@ -64,7 +67,7 @@ A project that combines my NetSuite experience with AI-assisted code transformat
 ---
 
 ### 🎬 AI Short Video Generator
-Experimenting with AI-powered workflows for generating short-form video content.
+AI-focused project exploring automated short-form video generation workflows.
 
 ➡️ [View Project](https://github.com/rahul-kumbhar0/Ai-Short-Video-Generator-)
 
@@ -78,9 +81,27 @@ Exploring LLM-powered content generation and practical AI integrations.
 ---
 
 ### ⚙️ Price Tracker Extension
-Browser-based automation project focused on tracking product prices and improving everyday workflows.
+Browser-based automation project focused on tracking product prices and useful workflow automation.
 
 ➡️ [View Project](https://github.com/rahul-kumbhar0/pricetracker-extension)
+
+---
+
+### 🏗️ Project Management System
+Backend system for projects, tasks, sprints, bugs, roles, and real-time updates.
+
+**Tech:** Node.js • Express • MongoDB • JWT • Socket.io
+
+➡️ [View Project](https://github.com/rahul-kumbhar0/Project-Management-System-)
+
+---
+
+### 🔧 Store Rating Backend
+Backend application demonstrating authentication, role-based access, APIs, database design, validation, and security.
+
+**Tech:** Node.js • Express • PostgreSQL • Sequelize • JWT
+
+➡️ [View Project](https://github.com/rahul-kumbhar0/backend-store-rating)
 
 ---
 
@@ -144,9 +165,9 @@ Browser-based automation project focused on tracking product prices and improvin
 
 ---
 
-## 🌱 My Goal
+## 🌱 Current Goal
 
-> Build strong foundations in AI engineering while using my NetSuite and ERP experience to create practical, production-focused AI solutions.
+> Build strong AI engineering foundations while using my NetSuite and ERP experience to create practical, production-focused AI solutions.
 
 I’m especially interested in projects where **AI solves real business and developer problems**, not just demos.
 
@@ -154,7 +175,7 @@ I’m especially interested in projects where **AI solves real business and deve
 
 <div align="center">
 
-### ERP Developer today → AI-powered Enterprise Engineer tomorrow 🚀
+### ERP Developer today → AI-Powered Enterprise Engineer tomorrow 🚀
 
 **NetSuite • SuiteScript • Python • AI • Automation • Full-Stack Engineering**
 
