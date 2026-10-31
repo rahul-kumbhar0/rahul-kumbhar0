@@ -19,7 +19,7 @@ By day I automate finance workflows in NetSuite, so I care about AI that holds u
 
 - **MCP servers and agent tools**: giving Claude real capabilities (media generation, browser automation) with safe, well-scoped tools
 - **LLM-powered developer tools**: AI-assisted SuiteScript migration with confidence scoring and human review
-- **Enterprise automation**: SuiteScript 2.x, Suitelets and token-secured approval flows in production NetSuite accounts
+- **Enterprise automation**: NetSuite SuiteScript 2.x, Suitelets, SuiteQL and workflow automation
 
 ---
 
@@ -65,10 +65,3 @@ Chrome extension with 10 extraction tools, an AI Extract feature (plain English 
 **Frontend:** React · Next.js · Tailwind CSS · Chrome Extensions (MV3)<br>
 **Data & Cloud:** Supabase / Postgres · MongoDB · Docker · Vercel · Render · Playwright<br>
 **ERP:** NetSuite (SuiteScript, Suitelets, SuiteQL, workflows)
-
----
-
-## Experience
-
-**Associate ERP Developer, NetSuite** · VNMT Solutions · Jan 2026 – present<br>
-SuiteScript 2.x customizations and finance automation, including email-based vendor bill approvals with secure one-click, token-verified actions.
