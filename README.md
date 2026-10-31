@@ -1,182 +1,74 @@
 <div align="center">
 
-# Hi 👋, I'm Rahul Kumbhar
+# Rahul Kumbhar
 
-### Associate ERP Developer | NetSuite & SuiteScript | Building AI-Powered Automation & Enterprise Tools
+### AI Engineer · LLM Applications · MCP Servers · Agent Tooling
 
-**Currently growing toward AI Engineering through real ERP, automation, and AI projects.**
+I build tools that let LLMs do real work: MCP servers, tool-use integrations and AI-assisted code migration.<br>
+By day I automate finance workflows in NetSuite, so I care about AI that holds up inside real business systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rahul--kumbhar0-181717?style=for-the-badge&logo=github)](https://github.com/rahul-kumbhar0)
-![NetSuite](https://img.shields.io/badge/NetSuite-ERP-2B579A?style=for-the-badge)
-![SuiteScript](https://img.shields.io/badge/SuiteScript-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![AI Engineering](https://img.shields.io/badge/AI%20Engineering-Learning%20%26%20Building-6C63FF?style=for-the-badge)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Associate ERP Developer** working with **NetSuite and SuiteScript**, while building toward a career in **AI Engineering**.
-
-My focus is to combine real ERP domain knowledge with modern AI technologies to create useful tools for developers, businesses, and enterprise workflows.
-
-- 🏢 Working with **NetSuite ERP, SuiteScript, JavaScript, APIs, and business automation**
-- 🤖 Building and exploring **LLM applications, AI automation, and developer tools**
-- 🐍 Strengthening **Python** for AI engineering
-- ⚙️ Interested in solving repetitive enterprise problems with intelligent systems
-- 🚀 Building projects that connect **ERP + AI + Backend + Full-Stack Engineering**
-
----
-
-## 🎯 Career Direction
-
-```text
-Associate ERP Developer
-        ↓
-NetSuite + SuiteScript
-        ↓
-Automation + APIs
-        ↓
-AI-Powered Enterprise Tools
-        ↓
-AI Engineering
-```
-
-My long-term goal is to become an engineer who understands **business systems deeply** and can build the **AI layer on top of them**.
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ SuiteMigrate
-**AI-powered SuiteScript 1.0 → 2.1 migration tool**
-
-My strongest bridge between **NetSuite development and AI engineering**.
-
-- AI-assisted SuiteScript conversion
-- Rule-based preprocessing
-- Confidence scoring and review flags
-- Chrome extension + web application
-- Authentication, usage limits, and SaaS-style architecture
-
-**Tech:** Next.js • TypeScript • Supabase • AI Conversion Service • Chrome Extension • NetSuite
-
-➡️ [View SuiteMigrate](https://github.com/rahul-kumbhar0/suitemigrate)
-
----
-
-### 🎬 AI Short Video Generator
-AI-focused project exploring automated short-form video generation workflows.
-
-➡️ [View Project](https://github.com/rahul-kumbhar0/Ai-Short-Video-Generator-)
-
----
-
-### ✍️ AI Content Generator
-Exploring LLM-powered content generation and practical AI integrations.
-
-➡️ [View Project](https://github.com/rahul-kumbhar0/ai-content-generator)
-
----
-
-### ⚙️ Price Tracker Extension
-Browser-based automation project focused on tracking product prices and useful workflow automation.
-
-➡️ [View Project](https://github.com/rahul-kumbhar0/pricetracker-extension)
-
----
-
-### 🏗️ Project Management System
-Backend system for projects, tasks, sprints, bugs, roles, and real-time updates.
-
-**Tech:** Node.js • Express • MongoDB • JWT • Socket.io
-
-➡️ [View Project](https://github.com/rahul-kumbhar0/Project-Management-System-)
-
----
-
-### 🔧 Store Rating Backend
-Backend application demonstrating authentication, role-based access, APIs, database design, validation, and security.
-
-**Tech:** Node.js • Express • PostgreSQL • Sequelize • JWT
-
-➡️ [View Project](https://github.com/rahul-kumbhar0/backend-store-rating)
-
----
-
-## 🧠 What I'm Learning Now
-
-- Python for AI Engineering
-- Large Language Model APIs
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and Vector Databases
-- AI Agents and Tool Use
-- FastAPI
-- AI application architecture
-- Evaluation, reliability, and production AI workflows
-
----
-
-## 🛠️ Tech Stack
-
-### ERP & Enterprise
-![NetSuite](https://img.shields.io/badge/NetSuite-ERP-2B579A?style=flat-square)
-![SuiteScript](https://img.shields.io/badge/SuiteScript-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-APIs-005571?style=flat-square)
-
-### AI & Programming
-[![AI Skills](https://skillicons.dev/icons?i=python,js,ts)](https://skillicons.dev)
-
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind)](https://skillicons.dev)
-
-### Backend & Data
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase)](https://skillicons.dev)
-
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel)](https://skillicons.dev)
-
----
-
-## 💡 Areas I'm Interested In
-
-- 🤖 AI for ERP and enterprise software
-- 🧩 NetSuite automation
-- 🔄 Legacy code migration with AI
-- 📚 Enterprise RAG systems
-- 🧠 AI assistants for business workflows
-- 🛠️ Developer productivity tools
-- ⚡ Intelligent process automation
-- 🔌 LLM + API integrations
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-kumbhar0&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-kumbhar0&layout=compact&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul%20Kumbhar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahul-kumbhar-a05a31235/)
+[![Email](https://img.shields.io/badge/Email-rahulanilkumbhar09%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rahulanilkumbhar09@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rahulkumbhar09-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rahulkumbhar09/)
 
 </div>
 
 ---
 
-## 🌱 Current Goal
+## What I build
 
-> Build strong AI engineering foundations while using my NetSuite and ERP experience to create practical, production-focused AI solutions.
-
-I’m especially interested in projects where **AI solves real business and developer problems**, not just demos.
+- **MCP servers and agent tools**: giving Claude real capabilities (media generation, browser automation) with safe, well-scoped tools
+- **LLM-powered developer tools**: AI-assisted SuiteScript migration with confidence scoring and human review
+- **Enterprise automation**: SuiteScript 2.x, Suitelets and token-secured approval flows in production NetSuite accounts
 
 ---
 
-<div align="center">
+## Featured projects
 
-### ERP Developer today → AI-Powered Enterprise Engineer tomorrow 🚀
+### SuiteMigrate · AI-powered SuiteScript migration
+Migrates legacy NetSuite SuiteScript 1.0/2.0 code to 2.1 by combining rule-based preprocessing with LLM-assisted conversion.
+- Confidence scoring and review flags, so developers check low-certainty output instead of trusting the model blindly
+- Web app plus Chrome extension, with auth and usage limits; launched to the NetSuite developer community
 
-**NetSuite • SuiteScript • Python • AI • Automation • Full-Stack Engineering**
+`TypeScript` `Next.js` `Supabase` `LLM API` `Chrome Extension` · **[suitemigrate.in](https://suitemigrate.in)**
 
-</div>
+### FlowCast MCP · Generative media MCP server for Claude
+A Python MCP server that gives Claude 7 tools for image generation and editing, text/image-to-video, extending clips and joining them into reels.
+- Async job handling for long-running video generation (background jobs + a polling tool)
+- Pluggable provider layer: Gemini or free open-source models (FLUX, Wan 2.2 on Hugging Face) with one env var
+- Deployed on Render with secret-scoped endpoints
+
+`Python` `MCP (FastMCP)` `Gemini API` `Hugging Face` `Render` · **[Repo](https://github.com/rahul-kumbhar0/instagram-claude-agent)**
+
+### PullRows · AI web scraper with a Claude MCP connector
+Chrome extension with 10 extraction tools, an AI Extract feature (plain English → structured table) and an MCP connector so Claude can drive the browser.
+- MCP relay + OAuth, because Claude's cloud can't reach a local browser
+- Agent guardrails: read-only by default, blocked sensitive sites, rate limits, per-call logging
+- Playwright end-to-end tests for the relay, OAuth and MCP flows
+
+`JavaScript (MV3)` `Node.js` `MCP` `OAuth` `Claude API` `Playwright` · **[Repo](https://github.com/rahul-kumbhar0/web-scrapper-extension)**
+
+---
+
+## Currently building
+
+- **JobFit AI**: RAG job matcher that ranks live job posts against a resume (Python, embeddings, pgvector)
+- **NetSuite AI Copilot**: an agent that turns plain-English finance questions into validated SuiteQL (LangGraph)
+
+---
+
+## Tech stack
+
+**AI:** Claude API · Gemini API · Model Context Protocol · tool use / function calling · prompt engineering · Hugging Face<br>
+**Languages:** Python · TypeScript · JavaScript · SQL · SuiteScript 2.x<br>
+**Backend:** Node.js · Express · REST APIs · OAuth / JWT · webhooks<br>
+**Frontend:** React · Next.js · Tailwind CSS · Chrome Extensions (MV3)<br>
+**Data & Cloud:** Supabase / Postgres · MongoDB · Docker · Vercel · Render · Playwright<br>
+**ERP:** NetSuite (SuiteScript, Suitelets, SuiteQL, workflows)
+
+---
+
+## Experience
+
+**Associate ERP Developer, NetSuite** · VNMT Solutions · Jan 2026 – present<br>
+SuiteScript 2.x customizations and finance automation, including email-based vendor bill approvals with secure one-click, token-verified actions.
